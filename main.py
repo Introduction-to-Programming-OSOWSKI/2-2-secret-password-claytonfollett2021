@@ -1,1 +1,9 @@
-#WRITE YOUR CODE IN THIS FILE
+def secretPassword(p):
+
+ if p == "Potato":
+    return (True)
+
+ else: 
+      return (False)
+
+print (secretPassword("Potato"))
