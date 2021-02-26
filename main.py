@@ -6,4 +6,4 @@ def Password(p):
  else: 
       return (False)
 
-print (secretPassword("Potato"))
+print (Password("Potato"))
