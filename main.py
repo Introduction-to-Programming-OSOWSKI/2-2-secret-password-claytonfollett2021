@@ -1,4 +1,4 @@
-def secretPassword(p):
+def Password(p):
 
  if p == "Potato":
     return (True)
