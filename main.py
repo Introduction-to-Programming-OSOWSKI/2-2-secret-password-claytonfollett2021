@@ -1,4 +1,4 @@
-def Password(p):
+def password(p):
 
  if p == "Potato":
     return (True)
@@ -6,4 +6,4 @@ def Password(p):
  else: 
       return (False)
 
-print (Password("Potato"))
+print (password("Potato"))
